@@ -1,0 +1,26 @@
+body {
+    color: chocolate;
+    background-color: beige;
+    font-family: Helvetica, sans-serif;
+}
+
+header {
+    border: 2px dotted;
+    border-color: chocolate;
+    background-color: gainsboro;
+}
+
+footer {
+    border: 2px dotted;
+    border-color: chocolate;
+    background-color: gainsboro;
+}
+
+main {
+    background-color: ivory;
+}
+
+p {
+    text-align: center;
+    margin: 20px;
+}
